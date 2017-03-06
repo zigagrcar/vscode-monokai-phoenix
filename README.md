@@ -20,4 +20,4 @@ NodeJS example code:
 
 ## Credits
 
-Based on the theme [Atom Monokai](https://github.com/kevinsawicki/monokai) from [burntime](https://github.com/kevinsawicki).  
+Based on the theme [Atom Monokai](https://github.com/kevinsawicki/monokai) from [kevinsawicki](https://github.com/kevinsawicki).  
