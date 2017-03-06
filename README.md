@@ -1,6 +1,6 @@
 # Monokai Phoenix Theme
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/dcasella.monokai-plusplus.svg)](https://marketplace.visualstudio.com/items?itemName=dcasella.monokai-plusplus) [![GitHub stars](https://img.shields.io/github/stars/dcasella/monokai-plusplus.svg?style=social&label=Star)](https://github.com/dcasella/monokai-plusplus)
+[![Version](https://vsmarketplacebadge.apphb.com/version/zigagrcar.monokai-phoenix.svg)](https://marketplace.visualstudio.com/items?itemName=zigagrcar.monokai-phoenix) [![GitHub stars](https://github.com/zigagrcar/vscode-monokai-phoenix.svg?style=social&label=Star)](https://github.com/zigagrcar/vscode-monokai-phoenix)
 
 A modern Monokai theme for Visual Studio Code.
 
