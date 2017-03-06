@@ -18,5 +18,12 @@
                 "path": "./themes/Monokai-Phoenix.tmTheme"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zigagrcar/vscode-monokai-phoenix.git"
+    },
+    "bugs": {
+        "url": "https://github.com/zigagrcar/vscode-monokai-phoenix"
     }
 }
