@@ -5,3 +5,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 - Initial release
+
+## [0.2.0]
+### Added
+- Added color for `this` keyword (thanks to Ubiquitous23)
