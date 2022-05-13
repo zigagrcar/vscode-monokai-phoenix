@@ -2,7 +2,7 @@
     "name": "theme-monokai-phoenix",
     "displayName": "Monokai Phoenix",
     "description": "Customized Monokai theme that changes background to fit Visual Studio Code user interface.",
-    "version": "0.2.0",
+    "version": "1.0.0",
     "publisher": "ZigaGrcar",
     "icon": "icon.png",
     "engines": {
@@ -11,12 +11,18 @@
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "monokai",
+        "phoenix",
+        "dark",
+        "theme"
+    ],
     "contributes": {
         "themes": [
             {
                 "label": "Monokai Phoenix",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Monokai-Phoenix.tmTheme"
+                "path": "./themes/Monokai-Phoenix.json"
             }
         ]
     },

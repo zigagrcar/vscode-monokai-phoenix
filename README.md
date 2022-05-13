@@ -4,6 +4,18 @@
 
 A modern Monokai theme for Visual Studio Code.
 
+
+## Changelog
+
+Added colors for bracket pair colorization added in the latest release, you can customize it in settings:
+
+```
+"editor.bracketPairColorization.enabled": true,
+"workbench.colorCustomizations": {
+    "editorBracketHighlight.foreground1": "#FD971F"
+}
+```
+
 ## Install
 
 `Ctrl/Command + P` to launch the command palette:
